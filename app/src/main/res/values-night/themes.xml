@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for night mode. -->
+    <style name="Base.Theme.ClosedSociety" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+    </style>
+
+    <style name="Theme.ClosedSociety" parent="Base.Theme.ClosedSociety" />
+</resources>

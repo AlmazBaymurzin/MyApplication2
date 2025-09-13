@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511997135650",
+    "project_id": "almazcell",
+    "storage_bucket": "almazcell.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511997135650:android:98b5946d37a6b676de737b",
+        "android_client_info": {
+          "package_name": "com.almaz.closedsociety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx57RIT4yLnnRBnT6SlfNI9BbLmoaO96k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
